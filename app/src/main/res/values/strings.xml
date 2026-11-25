@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Easy Mine Sweeper</string>
+    <string name="app_short">Mine Sweeper</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_puzzles">Puzzles</string>
+    <string name="title_create_puzzle">Create Puzzle</string>
+    <string name="size">Size of the puzzle</string>
+    <string name="width">Width</string>
+    <string name="height">Height</string>
+    <string name="value_too_short">Value must be greater than 0</string>
+    <string name="value_too_long">Value must be less than 99></string>
+    <string name="value_between">Value must be between 5%% and 20%% all cell count</string>
+    <string name="mines">Mines count</string>
+    <string name="title_list_puzzles">List puzzles</string>
+    <string name="create">Create</string>
+    <string name="title_play_puzzle">Play puzzle</string>
+    <string name="title_settings">Settings</string>
+    <string name="populate">Populate</string>
+    <string name="clear">Clear</string>
+    <string name="cheater_on">cheater on</string>
+    <string name="cheater_off">cheater off</string>
+    <string name="list_all">all</string>
+    <string name="list_finished">finished</string>
+    <string name="list_not_finished">not finished</string>
+    <string-array name="puzzle_state">
+        <item>Playing</item>
+        <item>Won</item>
+        <item>Lost</item>
+    </string-array>
+</resources>
